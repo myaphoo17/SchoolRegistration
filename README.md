@@ -1,2 +1,2 @@
 # SchoolRegistration
-Student Registration CRUD with Servlet,Jsp
+Student Registration CRUD with Servlet,Jsp and Spring MVC
